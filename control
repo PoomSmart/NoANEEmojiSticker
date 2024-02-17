@@ -1,0 +1,9 @@
+Package: com.ps.noaneemojisticker
+Name: NoANEEmojiSticker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fix drag-and-drop emoji sticker feature for A10/A10X devices.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0), cy+model.ipad (= 7.1) | cy+model.ipad (= 7.2) | cy+model.ipad (= 7.3) | cy+model.ipad (= 7.4) | cy+model.ipad (= 7.5) | cy+model.ipad (= 7.6) | cy+model.ipad (= 7.11) | cy+model.ipad (= 7.12)
